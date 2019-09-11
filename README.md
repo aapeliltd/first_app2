@@ -1,24 +1,7 @@
-# README
+# Ruby on rails Tutorial: First Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the first application for
 
-Things you may want to cover:
+[* Ruby on rails Tutorial: Learn rails by example*] (http://railstutorial.org)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+by [Michael Hart] (http://michaelhartl.com)
